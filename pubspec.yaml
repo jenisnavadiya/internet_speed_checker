@@ -1,7 +1,7 @@
 name: internet_speed_checker
-description: A new Flutter project.
+description: A new Flutter plugin for check Internet speed.
 version: 0.0.1
-homepage:
+homepage: https://github.com/jenisnavadiya/internet_speed_checker
 
 environment:
   sdk: ">=2.16.0 <3.0.0"
